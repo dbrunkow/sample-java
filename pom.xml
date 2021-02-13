@@ -18,6 +18,11 @@
   <artifactId>sample</artifactId>
   <name>Sample</name>
   <dependencies>
+	  <dependency>
+    <groupId>com.charter.architecture</groupId>
+    <artifactId>keymaster</artifactId>
+    <version>1.1</version>
+</dependency>
     <dependency>
       <groupId>com.fasterxml.jackson.core</groupId>
       <artifactId>jackson-databind</artifactId>
